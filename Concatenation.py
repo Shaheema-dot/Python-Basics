@@ -1,0 +1,5 @@
+name = input(" ")
+age = input(" ")
+print("Good morning,")
+print('My name is '+name+',')
+print('I am '+age+' years old.')
