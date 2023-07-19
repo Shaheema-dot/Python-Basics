@@ -1,0 +1,14 @@
+a=8
+b=6
+add = a + b
+print(a,'+',b,"=" ,add)
+sub = a - b
+print(a,"-",b,"=" ,sub)
+mul = a * b
+print(a,"*",b,"=" ,mul)
+div = a / b
+print(a,"/",b,"=" ,div)
+mod = a % b
+print(a,"%",b,"=" ,mod)
+expo = a ** b
+print(a,"**",b,"=" ,expo)
